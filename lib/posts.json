@@ -1,0 +1,11 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Next.js 15 새로운 기능 소개",
+        "content": "서버 컴포넌트와 앱 라우터의 진화...",
+        "author": "rainlee",
+        "createdAt": "2024-01-01"
+      }
+    ]
+  }
